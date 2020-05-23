@@ -338,6 +338,7 @@ header {
     background-color: var(--color_dark);
     color: var(--color_light);
     text-align: center;
+    padding-top: 0;
 }
 
 .portfolio {
